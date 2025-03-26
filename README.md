@@ -13,7 +13,9 @@ The Data Grabber is a Python script designed for data extraction and analysis. I
 ## Usage
 Run the script using the following command:
 
-```python data_grabber.py```
+```bash
+python data_grabber.py
+```
 
 ## Configuration
 - Modify script parameters to customize data extraction and processing.
